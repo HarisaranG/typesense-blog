@@ -1,4 +1,5 @@
 module.exports = {
+    // base: 'typesense-blog',
     title: 'Typesense Blog',
     description: 'Mini Blog Website',
     themeConfig: {
