@@ -1,0 +1,18 @@
+{
+  "name": "typesense-blog",
+  "version": "1.0.0",
+  "description": "A typesense organisation blog",
+  "main": "index.js",
+  "author": "hari@harisaran.live",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.4",
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.8.2"
+  },
+  "homepage": ""
+}
