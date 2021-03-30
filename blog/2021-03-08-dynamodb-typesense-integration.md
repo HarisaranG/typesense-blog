@@ -3,7 +3,7 @@ title: DynamoDB Integration with Typesense
 description: Indexing DynamoDB documents in Typesense
 author: Harisaran
 type: article
-picture: dynamodb-typesense-integration-1.png
+picture: typesense-dynamodb.svg
 sidebar: auto
 ---
 
